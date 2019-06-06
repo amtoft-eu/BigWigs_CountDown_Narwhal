@@ -1,0 +1,8 @@
+## Interface: 80100
+## Title: BigWigs |cffff7f3f+|r|cffffffffCountdown: Narwhal|r
+## Dependencies: BigWigs
+## Version: 0.0.1
+## Author: Amtoft
+
+
+Core.lua
