@@ -37,3 +37,27 @@ BigWigsAPI:RegisterCountdown("Narwhal Wacky", {
 	"Interface\\AddOns\\BigWigs_CountDown_Narwhal\\Media\\Sounds\\Narwhal\\Wacky\\4.ogg",
 	"Interface\\AddOns\\BigWigs_CountDown_Narwhal\\Media\\Sounds\\Narwhal\\Wacky\\5.ogg",
 })
+
+BigWigsAPI:RegisterCountdown("Amtoft Danish", {
+	"Interface\\AddOns\\BigWigs_CountDown_Narwhal\\Media\\Sounds\\Amtoft\\Danish\\1.ogg",
+	"Interface\\AddOns\\BigWigs_CountDown_Narwhal\\Media\\Sounds\\Amtoft\\Danish\\2.ogg",
+	"Interface\\AddOns\\BigWigs_CountDown_Narwhal\\Media\\Sounds\\Amtoft\\Danish\\3.ogg",
+	"Interface\\AddOns\\BigWigs_CountDown_Narwhal\\Media\\Sounds\\Amtoft\\Danish\\4.ogg",
+	"Interface\\AddOns\\BigWigs_CountDown_Narwhal\\Media\\Sounds\\Amtoft\\Danish\\5.ogg",
+})
+
+BigWigsAPI:RegisterCountdown("Amtoft English", {
+	"Interface\\AddOns\\BigWigs_CountDown_Narwhal\\Media\\Sounds\\Amtoft\\English\\1.ogg",
+	"Interface\\AddOns\\BigWigs_CountDown_Narwhal\\Media\\Sounds\\Amtoft\\English\\2.ogg",
+	"Interface\\AddOns\\BigWigs_CountDown_Narwhal\\Media\\Sounds\\Amtoft\\English\\3.ogg",
+	"Interface\\AddOns\\BigWigs_CountDown_Narwhal\\Media\\Sounds\\Amtoft\\English\\4.ogg",
+	"Interface\\AddOns\\BigWigs_CountDown_Narwhal\\Media\\Sounds\\Amtoft\\English\\5.ogg",
+})
+
+BigWigsAPI:RegisterCountdown("Amtoft Rød Grød", {
+	"Interface\\AddOns\\BigWigs_CountDown_Narwhal\\Media\\Sounds\\Amtoft\\RodGrod\\1.ogg",
+	"Interface\\AddOns\\BigWigs_CountDown_Narwhal\\Media\\Sounds\\Amtoft\\RodGrod\\2.ogg",
+	"Interface\\AddOns\\BigWigs_CountDown_Narwhal\\Media\\Sounds\\Amtoft\\RodGrod\\3.ogg",
+	"Interface\\AddOns\\BigWigs_CountDown_Narwhal\\Media\\Sounds\\Amtoft\\RodGrod\\4.ogg",
+	"Interface\\AddOns\\BigWigs_CountDown_Narwhal\\Media\\Sounds\\Amtoft\\RodGrod\\5.ogg",
+})
